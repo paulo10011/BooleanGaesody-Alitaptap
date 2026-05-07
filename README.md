@@ -1,5 +1,5 @@
 ![cover](ali.png)
-Alitaptap is an AI-powered fire safety inspector for household photos. By using GenAI computer vision, our web application allows anyone to snap a photo of a room and instantly receive a quantifiable "Flammability Score." The system acts as a pocket fire inspector, identifying spatial hazards and providing an actionable, step-by-step checklist to resolve risks and generate compliance reports.
+[Alitaptap](https://neil-023.github.io/Alitaptap/)  is an AI-powered fire safety inspector for household photos. By using GenAI computer vision, our web application allows anyone to snap a photo of a room and instantly receive a quantifiable "Flammability Score." The system acts as a pocket fire inspector, identifying spatial hazards and providing an actionable, step-by-step checklist to resolve risks and generate compliance reports.
 > *We’ve become blind to the clutter that fuels these disasters.*
 # 📖 The Problem & Vision
 The Fire Crisis: In just the first four months of 2026, the Philippines has faced a fire crisis. From January 1 to May 1, 2026, fire incidents nationwide surged to 8,068 cases—a staggering 36% jump compared to last year. With fire damage in Metro Manila alone rising by 34% this year, we cannot afford to wait for the sirens.
