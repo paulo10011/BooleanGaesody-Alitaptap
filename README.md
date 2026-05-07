@@ -32,11 +32,11 @@ Our app scans your room for the top causes of structural fires:
 - Developer Friendly: Full Docker support for both development and production environments.
 
 # 🛠️ Tech Stack
-Frontend: React, Vite, React Router, CSS Modules
+- Frontend: React, Vite, React Router, CSS Modules
 
-Backend: FastAPI, Gunicorn, Uvicorn, Python, Pillow, Google Gen AI (Gemini)
+- Backend: FastAPI, Gunicorn, Uvicorn, Python, Pillow, Google Gen AI (Gemini)
 
-Deployment: Docker, Docker Compose, Nginx (for frontend serving)
+- Deployment: Docker, Docker Compose, Nginx (for frontend serving)
 
 # 📁 Project Structure
 ```
@@ -47,28 +47,28 @@ Deployment: Docker, Docker Compose, Nginx (for frontend serving)
 ```
 # 🚀 Getting Started
 Requirements
-Node.js: v20 or newer
+- Node.js: v20 or newer
 
-Python: v3.11 or newer
+- Python: v3.11 or newer
 
-Docker & Docker Compose: (If running with containers)
+- Docker & Docker Compose: (If running with containers)
 
-API Key: Google Gemini API key for backend access
+- API Key: Google Gemini API key for backend access
 
-Environment Variables
+# Environment Variables
 Backend (backend/.env):
 
-GEMINI_API_KEY: Your Gemini API key (Required)
+- GEMINI_API_KEY: Your Gemini API key (Required)
 
-ENVIRONMENT: Optional, typically set to production in prod.
+- ENVIRONMENT: Optional, typically set to production in prod.
 
 Frontend (frontend/.env):
 
-VITE_API_URL: Backend URL used by the frontend
+- VITE_API_URL: Backend URL used by the frontend
 
-VITE_ENABLE_DASHBOARD_BYPASS: Optional testing bypass for the dashboard
+- VITE_ENABLE_DASHBOARD_BYPASS: Optional testing bypass for the dashboard
 
-VITE_PROXY_TARGET: Used by the Vite dev proxy in containerized development
+- VITE_PROXY_TARGET: Used by the Vite dev proxy in containerized development
 
 # 💻 Local Development
 1. Backend Setup
